@@ -92,8 +92,8 @@ a:hover {
 }
 
 .texture-paper::before {
-    background: url("img/texture-paper-min.png"); 
-    background-size: 280px 280px;
+   
+    background-size: 260px 260px;
 }
 
 .b-parallax {
@@ -784,7 +784,6 @@ h4 {
 
 .tc-white {
     color: #364577; 
-    background-color: #FFF;
     font-size: 20px;
     
 }
