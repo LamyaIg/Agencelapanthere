@@ -91,11 +91,6 @@ a:hover {
     right: 0;
 }
 
-.texture-paper::before {
-   
-    background-size: 260px 260px;
-}
-
 .b-parallax {
     background-attachment: fixed;
 }
